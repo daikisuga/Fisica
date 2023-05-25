@@ -660,7 +660,7 @@ Button(pag_input, text= "Confirmar Posicao", command = pag).place(relx = 0.5, re
 
 Label(pag_input, text="Alan Daiki Suga\nRA: 24.122.051-6", font=("Arial Bold", 11)).place(relx= 0.30, rely=0.6, anchor = "e")
 Label(pag_input, text="Rodrigo Simões Ruy\nRA: 24.122.092-0", font=("Arial Bold", 11)).place(relx=0.5, rely=0.6, anchor = "c")
-Label(pag_input, text="Wendell\nRA: 24.122.047-4", font=("Arial Bold", 11)).place(relx= 0.7, rely=0.6, anchor = "w")
+
 
 
 pag_input.mainloop()
